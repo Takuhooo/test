@@ -7,3 +7,25 @@ p {
 main {
   font: blue;
 }
+
+section {
+  display: flex;
+}
+
+ .box-1 {
+  width: 100px;
+  height: 100px;
+  background-color: skyblue;
+}
+
+ .box-2 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+ .box-3 {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+}
